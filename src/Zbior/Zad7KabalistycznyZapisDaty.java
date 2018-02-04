@@ -41,6 +41,7 @@ public class Zad7KabalistycznyZapisDaty {
 
         }
 
+        //jjjj
        System.out.println(suma);
     }
 }
